@@ -1,8 +1,5 @@
-![image000000](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/74284537-cd48-43fc-bcd5-ad61ff504776)
+![image000000](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/801f506d-392d-44e5-b1a8-4f0bb950595d)
 # Walk the Hills
-
-## Project summary
-The goal for this project is to create a Mobile walking app that focuses on allowing anyone in the Pullman area to safely travel on foot from their current location to their destination of choice. The application will allow users to write and view recommendations for the routes they choose to go through. The app will also consider the time of day and offer suggestions depending on what is a preferred route to take at daylight and which one is preferred to take at night time. At the beginning of the launch of the app, there will be a small amount of recommendations but throughout the years we hope for the app to have a good number of recommendations and data regarding each route. 
 
 ### Quick Description
 If you enjoy exploring Pullman and are curious about others' opinions on the various available routes, the Walk the Hills application is tailored for you.
@@ -94,17 +91,9 @@ You can then click on a Marker to review
   
 ![gnome-shell-screenshot-cy6bic](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/a8496215-11cf-4ef2-9901-3e1ed3f85bb2)
 
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
 ## Additional Documentation
-* [Project Description](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/blob/main/walking-directions-app/docs/Solutions_approach_Finite_Cipher.pdf)
-
+* [Project Description](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/Project_Description_Finite_Cipher.pdf)
 
 ## License
-The rights to the Walk the Hills Application belong to Adam, Mitchelle, and Juan. Link:
-[License](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/blob/main/LICENSE.txt)
+The rights to the Walk the Hills Application belong to Adam, Mitchell, and Juan. Link:
+[License](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/LICENSE.txt)
