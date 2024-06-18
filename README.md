@@ -1,4 +1,4 @@
-![image000000](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/801f506d-392d-44e5-b1a8-4f0bb950595d)
+![image000000](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/74284537-cd48-43fc-bcd5-ad61ff504776)
 # Walk the Hills
 
 ### Quick Description
