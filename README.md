@@ -13,7 +13,7 @@ This project will enable users to input both their starting location and their d
 The user must have the following in order to run the application.
 * On your Windows, Mac, or Linux device, select the following link: [Visual Studio Code Download](https://code.visualstudio.com/download)
 
-![gnome-shell-screenshot-8dbung](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/74faabf8-dbd0-41f8-b1a4-324d5f8361ad)
+![gnome-shell-screenshot-8dbung](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/vscodeDownload.png)
 
 After this, you will select the necessary download file for your OS and open up Visual Studio Code on your computer. Once complete, you can proceed to "Installation Steps"
 
@@ -22,17 +22,17 @@ Google Maps API: We use the Google Maps API to access their library of mapping a
 
 ### Installation Steps
 1. Open Visual Studio Code (VS Code). Your display should look like the image down below
-![gnome-shell-screenshot-ekf2mq](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/8ec4364e-985c-49dd-b591-3a43d15f761c)
+![gnome-shell-screenshot-ekf2mq](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/vscodeHomeScreen.png)
 2. Open terminal in VS Code
 * Windows and Linux: Ctrl + ` (backtick)
 * Mac: Cmd + ` (backstick)
 * Or just manually click on "Terminal" then "New Terminal"
   
 It should look similar to the image. (Green Lettering before '$' is different for every device)
-![gnome-shell-screenshot-97dcp6](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/8bb050b4-54f4-40b6-a19d-f2864a8a1de8)
+![gnome-shell-screenshot-97dcp6](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/vscodeNewTerminal.png)
 
 3. Enter the following in your terminal for a quick installation:
-![gnome-shell-screenshot-92409g](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/9f50e6cf-247b-4106-85b0-82f832f305b6)
+![gnome-shell-screenshot-92409g](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/vscodeInstallation.png)
    * Linux:
        * `sudo apt update`
        * `sudo apt install npm nodejs`
@@ -48,7 +48,7 @@ It should look similar to the image. (Green Lettering before '$' is different fo
      * On the side, go to your specific OS and follow the installation process.
        
 5. Once installed, you can copy this to clone the repository: `git clone https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp.git` Then proceed to Functionality.
-![gnome-shell-screenshot-ba5w0d](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/ae626288-7221-4ced-8e0c-31d9d7716cd3)
+![gnome-shell-screenshot-ba5w0d](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/vscodeClone.png)
 
 6. In VS code: Go to file->open folder->open "cha-mobilefullstackapp" folder
      * You should be directed back to VS Code with cha-mobilefullstackapp displayed at the top
@@ -63,33 +63,33 @@ It should look similar to the image. (Green Lettering before '$' is different fo
 * Change directory into "Walking-directions-app": `cd Walking-directions-app`
 * Enter: `npm start` after this, your application will open up in your browser.
 
-![gnome-shell-screenshot-7ghefe](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/801f506d-392d-44e5-b1a8-4f0bb950595d)
+![gnome-shell-screenshot-7ghefe](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHome.png)
 
 Enter Destination
 
-![gnome-shell-screenshot-hnkg7r](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/8cc39905-d428-49fe-88db-80d32f4aaa88)
+![gnome-shell-screenshot-hnkg7r](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeWithDestination.png)
 
 If you click on `Plan Route`, it asks for a location which will be your start point
 If not and you select `Start` It will grab your current location
 And choose whether you want to use the `Lowest Elevation` or `Shortest Distance`
 
-![gnome-shell-screenshot-afncxs](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/7be779a3-213a-4d16-aac7-27c2ea08cc1e)
+![gnome-shell-screenshot-afncxs](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeRouteToggle.png)
 
 Click on Green Arrow to get directions
 
-![gnome-shell-screenshot-28h6us](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/ec5b7d95-4931-4284-a27d-7d7074579a5e)
+![gnome-shell-screenshot-28h6us](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeRoute.png)
 
 You can then click on a Marker to review
 * Either Review Whole route or a Path
     * Review a path which grabs two markers and reviews the path in-between them
       
-![gnome-shell-screenshot-4joyhz](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/9d5ab2aa-1429-4ebd-a393-7505e8b9c611)
-![gnome-shell-screenshot-65qokp](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/65f5fb4c-e724-4b00-a7a2-02bd62e40b51)
+![gnome-shell-screenshot-4joyhz](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeMarker.png)
+![gnome-shell-screenshot-65qokp](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeReviewSubmission.png)
 
 * Open inspector mode to see the Reviewed path being returned for the database to grab in it's tokenized form
 * Go to ConvertString function in Review.js to see more
   
-![gnome-shell-screenshot-cy6bic](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/a8496215-11cf-4ef2-9901-3e1ed3f85bb2)
+![gnome-shell-screenshot-cy6bic](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/appHomeReviewData.png)
 
 ## Additional Documentation
 * [Project Description](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/Project_Description_Finite_Cipher.pdf)
