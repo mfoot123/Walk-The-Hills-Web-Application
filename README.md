@@ -1,4 +1,4 @@
-![image000000](https://github.com/WSUCptSCapstone-F23-S24/cha-mobilefullstackapp/assets/94017159/74284537-cd48-43fc-bcd5-ad61ff504776)
+![image000000](https://github.com/mfoot123/Walk-The-Hills-Web-Application/blob/main/walking-directions-app/docs/images/FiniteCipherLogo.png)
 # Walk the Hills
 
 ### Quick Description
